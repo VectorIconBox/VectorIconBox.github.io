@@ -1,0 +1,4 @@
+User-Agent: Baiduspider
+Allow: /iconListV3.html
+Allow: /index.html
+
