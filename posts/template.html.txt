@@ -4,9 +4,9 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="www.VectorIconBox.com : Vector Icon Box, a vector icon factory">
+    <meta name="description" content="Vectoriconbox.GitHub.io : Vector Icon Box, a vector icon making tool">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/stylesheet.css">
 
     <title>Vector Icon Box Official Website</title>
   </head>
@@ -17,8 +17,8 @@
         <header class="inner">
           <!-- <a id="forkme_banner" href="macappstore://itunes.apple.com/app/id959485650">Vector Icon Box for Mac</a> -->
 
-          <h1 id="project_title">Vector Icon Box</h1>
-          <h2 id="project_tagline">Official Website for Vector Icon Box, a vector icon factory.</h2>
+          <h1 id="project_title"><a href="http://www.vectoriconbox.com">Vector Icon Box</a></h1>
+          <h2 id="project_tagline">Official Website for Vector Icon Box, a vector icon making tool</h2>
 
         </header>
     </div>
@@ -32,20 +32,6 @@
 
 <p>Thousands of free, scalable and high quality vector icons for you!</p>
 
-<h3>
-<a id="future-plan" class="anchor" href="#future-plan" aria-hidden="true"><span class="octicon octicon-link"></span></a>Icon thumbnails</h3>
-
-<p>To speed up loading of thumbnails, all these icons are compressed in small size, please download <a href="macappstore://itunes.apple.com/app/id959485650">Vector Icon Box for Mac</a> for high resolution icons.
-</p>
- <a href="./iconListV3.html" > Icon Thumbnails</a>
-<h3> Features of Vector Icon Box
-  </h3>
-  
-  <h3> Smart Lazy Guys
-  </h3>
-  <h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
 <p>Having any suggestion? Please contact <a href="mailto:vectoriconbox@outlook.com">vectoriconbox@outlook.com</a></p>
       </section>
     </div>
@@ -56,6 +42,7 @@
         <p>@Fool Dragon Inc, 2014-2015. Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
+
 
     <!-- cnzz -->
     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254511489'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254511489%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
@@ -72,5 +59,6 @@
 
 </script>
   <!-- end of Google analytics -->
+
   </body>
 </html>
