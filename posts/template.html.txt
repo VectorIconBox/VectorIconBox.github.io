@@ -18,7 +18,7 @@
           <!-- <a id="forkme_banner" href="macappstore://itunes.apple.com/app/id959485650">Vector Icon Box for Mac</a> -->
 
           <h1 id="project_title"><a href="http://www.vectoriconbox.com">Vector Icon Box</a></h1>
-          <h2 id="project_tagline">Official Website for Vector Icon Box, a vector icon making tool</h2>
+          <h2 id="project_tagline">Official Website for Vector Icon Box, a vector icon factory. It is designed to help you to save your time in app/web UI design.</h2>
 
         </header>
     </div>
