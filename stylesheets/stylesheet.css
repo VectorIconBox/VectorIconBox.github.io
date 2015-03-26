@@ -368,7 +368,7 @@ Full-Width Styles
   background: #212121;
 }
 
-
+.brd { border: 2px solid white ;padding: 10px;color:white}
 
 /*******************************************************************************
 Small Device Styles
