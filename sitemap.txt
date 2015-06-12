@@ -6,7 +6,7 @@
 
       <loc>http://www.vectoriconbox.com</loc>
 
-      <lastmod>2015-04-01T08:23:17+00:00</lastmod>
+      <lastmod>2015-06-01T08:23:17+00:00</lastmod>
 
    </sitemap>
 
@@ -14,7 +14,7 @@
 
       <loc>http://www.vectoriconbox.com/iconListV3.html</loc>
 
-      <lastmod>2015-04-01</lastmod>
+      <lastmod>2015-06-01</lastmod>
 
    </sitemap>
 
@@ -22,10 +22,25 @@
 
          <loc>http://www.vectoriconbox.com/RegexToolBox.html</loc>
 
-         <lastmod>2015-04-01</lastmod>
+         <lastmod>2015-06-01</lastmod>
 
       </sitemap>
 
 
+   <sitemap>
 
+      <loc>http://www.vectoriconbox.com/HowToUseVectorIconBox.html</loc>
+
+      <lastmod>2015-06-01</lastmod>
+
+   </sitemap>
+
+
+   <sitemap>
+
+      <loc>http://www.vectoriconbox.com/MarkSixMatrix.html</loc>
+
+      <lastmod>2015-06-01</lastmod>
+
+   </sitemap>
 </sitemapindex>
